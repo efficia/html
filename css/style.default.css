@@ -69,17 +69,11 @@ transition:all .2s ease-out;
 .main p.social a.facebook {
 	background-color:#4460ae
 }
-.main p.social a.gplus {
-	background-color:#c21f25
-}
-.main p.social a.twitter {
-	background-color:#3cf
-}
-.main p.social a.instagram {
-	background-color:#cd4378
+.main p.social a.phone {
+	background-color:#2ecc71
 }
 .main p.social a.email {
-	background-color:#4a7f45
+	background-color:#e74c3c
 }
 @media (max-width:991px) {
 .main p.social {
